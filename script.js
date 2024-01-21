@@ -1,4 +1,4 @@
- const APIkey = `a392d3e0a1be7be2d7bbfd1666c16c9c`;
+ //const APIkey = `Your API Key here`;
  const city = "Mumbai"
 
 async function fetchWeatherData(city) {
